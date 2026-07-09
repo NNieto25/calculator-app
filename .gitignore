@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Build output
+frontend/dist/
+backend/server
+
+# Test / coverage artifacts
+coverage/
+coverage.out
+*.test
+
+# Editor / OS
+.DS_Store
+*.log
+.vite/
