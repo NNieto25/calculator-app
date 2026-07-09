@@ -8,6 +8,10 @@ together behind Docker Compose.
   <em>Indigo &amp; blue claymorphism UI · Go standard-library API · React Query · fully containerised</em>
 </p>
 
+<p align="center">
+  <img src="./calculator.png" alt="Calculator App — indigo and blue claymorphism interface" width="640" />
+</p>
+
 ## Contents
 - [Architecture](#architecture)
 - [Quick start (Docker Compose)](#quick-start-docker-compose)
